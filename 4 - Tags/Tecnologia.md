@@ -1,6 +1,0 @@
-# Tecnologia
-
-Tag: #tech
-
-# Note
-

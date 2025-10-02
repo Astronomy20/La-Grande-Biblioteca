@@ -1,6 +1,0 @@
-# Tecnocrazia
-
-Tag: #tecnocrazia
-
-# Note
-

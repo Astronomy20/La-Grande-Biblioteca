@@ -1,6 +1,0 @@
-# Criptovalute
-
-Tag: #criptovalute
-
-# Note
-

@@ -1,6 +1,0 @@
-# Economia
-
-Tag: #economia
-
-# Note
-

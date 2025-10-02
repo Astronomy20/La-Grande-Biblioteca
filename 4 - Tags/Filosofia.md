@@ -1,6 +1,0 @@
-# Filosofia
-
-Tag: #filosofia
-
-# Note
-

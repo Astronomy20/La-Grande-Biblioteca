@@ -1,6 +1,0 @@
-# Europa
-
-Tag: #europa
-
-# Note
-
