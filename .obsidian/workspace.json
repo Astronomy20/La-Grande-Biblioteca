@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e3da2caf8761427a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7978388ebeb7de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c923eda21f64ff3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "409fe6064ab883da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc018c385531760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1246227805719bcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "1a39705567a0d1ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#europa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "3b6c2f53e5f8341a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e13f073afe59618",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a185e5457cc1cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c7a5c1dd8f4963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "cefd3f9e57a12f88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4e0874f1296db87f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c016ca41b0d691e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "80c1a1e94a5fc7ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c923eda21f64ff3e",
+  "lastOpenFiles": [
+    "0 - La Grande Biblioteca/test.md",
+    "5 - Templates/Video.md",
+    "5 - Templates/Tag.md",
+    "5 - Templates/Libri.md",
+    "5 - Templates/Idee.md",
+    "5 - Templates/Full Note.md",
+    "5 - Templates/Citazioni.md",
+    "5 - Templates/Analisi.md",
+    "5 - Templates",
+    "4 - Tags/Web3.md",
+    "4 - Tags/Tecnologia.md",
+    "4 - Tags/Tecnocrazia.md",
+    "4 - Tags/Filosofia.md",
+    "4 - Tags/Europa.md",
+    "4 - Tags/Economia.md",
+    "4 - Tags/Criptovalute.md",
+    "4 - Tags",
+    "3 - Indice",
+    "2 - Risorse/Video",
+    "2 - Risorse/Libri",
+    "2 - Risorse/Documentari",
+    "2 - Risorse/Clippings",
+    "2 - Risorse/Citazioni/Machiavelli in Borsa.md",
+    "2 - Risorse/Citazioni",
+    "2 - Risorse/Blog",
+    "2 - Risorse/Articoli/Digital Network Act.md",
+    "2 - Risorse/Articoli/Come sarà l'Euro Digitale.md",
+    "2 - Risorse/Articoli",
+    "4 - Tags/Seconda Guerra Mondiale.md",
+    "Senza nome.md",
+    "Seconda.md",
+    "[[Seconda.md",
+    "Senza nome.canvas",
+    "2025-06-18.md",
+    "Automated.md",
+    "0 - La Grande Biblioteca/2025-05-03.md",
+    "Welcome.md"
+  ]
+}

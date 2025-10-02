@@ -1,0 +1,37 @@
+{
+  "abbreviations": {
+    "/+-": {
+      "value": "⚹ - ✝︎",
+      "isEnabled": true,
+      "position": 5
+    },
+    "...": {
+      "value": ". . .",
+      "isEnabled": true,
+      "position": 4
+    },
+    "nn": {
+      "value": "non",
+      "isEnabled": true,
+      "position": 3,
+      "isCaseSensitive": true
+    },
+    "pk": {
+      "value": "perché",
+      "isEnabled": true,
+      "position": 2,
+      "isCaseSensitive": true
+    },
+    "<>": {
+      "value": "«»",
+      "isEnabled": true,
+      "position": 1
+    },
+    "pov": {
+      "value": "punto di vista",
+      "isEnabled": true,
+      "position": 0,
+      "isCaseSensitive": true
+    }
+  }
+}
